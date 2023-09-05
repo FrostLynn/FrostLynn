@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhdan Rafif Nugraha</h1>
-<h3 align="center">A <b>software engineering* student from Indonesia</b>.</h3>
+<h3 align="center">A <b>software engineering student from Indonesia</b>.</h3>
 
 - 🔭 I’m currently studying *Software Engineering* at **Siliwangi University**
 
